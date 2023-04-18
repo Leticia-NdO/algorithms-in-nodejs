@@ -1,2 +1,2 @@
 # algorithms-in-nodejs
-Algorithms exercises in NodeJS
+Algorithm exercises in NodeJS
